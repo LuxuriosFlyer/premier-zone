@@ -1,0 +1,1 @@
+A Spring Boot backend application that provides a REST API for managing Premier League player and match data. It integrates with a PostgreSQL database and serves as the data layer for the front-end React client of the Premier League Website project.
